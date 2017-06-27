@@ -6,7 +6,10 @@ working sketch of a working model
 muscle  /  sense  /  brain  
 motor/photoresistor/transistor
 
-![](http://i.imgur.com/Yn91jae.jpg)  
+![](http://i.imgur.com/Yn91jae.jpg)   
+![](http://i.imgur.com/yZEpB6R.png)    
+![](http://i.imgur.com/HgwbN29.png)  
+
 excerpt from ***Vehicles Experiments in Synthetic Psychology***  
 
 
