@@ -8,7 +8,7 @@ motor/photoresistor/transistor
 
 ![](http://i.imgur.com/Yn91jae.jpg)   
 ![](http://i.imgur.com/yZEpB6R.png)    
-![](http://i.imgur.com/HgwbN29.png)  
+![](http://i.imgur.com/Q5STHip.jpg)  
 
 excerpt from ***Vehicles Experiments in Synthetic Psychology***  
 
